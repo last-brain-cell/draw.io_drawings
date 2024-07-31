@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6">
   <diagram name="Page-1" id="o0lK1oO0jUhWUyYiTEdb">
-    <mxGraphModel dx="1450" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5807" dy="3215" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -540,7 +540,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Op0vcqs114MaEeQkp1IP-193" value="Task&lt;div&gt;Notifications&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="1180" width="80" height="80" as="geometry" />
+          <mxGeometry x="-205" y="1260" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Op0vcqs114MaEeQkp1IP-218" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Op0vcqs114MaEeQkp1IP-194" target="Op0vcqs114MaEeQkp1IP-199">
           <mxGeometry relative="1" as="geometry" />
@@ -552,19 +552,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Op0vcqs114MaEeQkp1IP-194" value="Notification&lt;div&gt;Type&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="109" y="1190" width="80" height="80" as="geometry" />
+          <mxGeometry x="104" y="1270" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Op0vcqs114MaEeQkp1IP-196" value="NotificationID" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-380" y="1150" width="126" height="40" as="geometry" />
+          <mxGeometry x="-385" y="1230" width="126" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Op0vcqs114MaEeQkp1IP-197" value="NotificationDesc" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-76" y="1290" width="126" height="40" as="geometry" />
+          <mxGeometry x="-81" y="1370" width="126" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Op0vcqs114MaEeQkp1IP-198" value="NotificationType" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="1240" width="126" height="40" as="geometry" />
+          <mxGeometry x="-45" y="1320" width="126" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Op0vcqs114MaEeQkp1IP-201" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="95" y="1320" width="140" height="70" as="geometry" />
+          <mxGeometry x="90" y="1400" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Op0vcqs114MaEeQkp1IP-199" value="Prioriry" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Op0vcqs114MaEeQkp1IP-201">
           <mxGeometry x="14" width="126" height="40" as="geometry" />
@@ -573,19 +573,19 @@
           <mxGeometry y="40" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Op0vcqs114MaEeQkp1IP-202" value="TypeDesc" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="239" y="1260" width="126" height="40" as="geometry" />
+          <mxGeometry x="234" y="1340" width="126" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Op0vcqs114MaEeQkp1IP-203" value="TypeID" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="233" y="1190" width="126" height="40" as="geometry" />
+          <mxGeometry x="228" y="1270" width="126" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Op0vcqs114MaEeQkp1IP-204" value="TaskID" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-426" y="1200" width="126" height="40" as="geometry" />
+          <mxGeometry x="-431" y="1280" width="126" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Op0vcqs114MaEeQkp1IP-205" value="Timestamp" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-370" y="1320" width="126" height="40" as="geometry" />
+          <mxGeometry x="-375" y="1400" width="126" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Op0vcqs114MaEeQkp1IP-206" value="Status" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-65.6" y="1180" width="126" height="40" as="geometry" />
+          <mxGeometry x="-78" y="1249" width="126" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Op0vcqs114MaEeQkp1IP-216" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Op0vcqs114MaEeQkp1IP-207" target="Op0vcqs114MaEeQkp1IP-209">
           <mxGeometry relative="1" as="geometry" />
@@ -594,16 +594,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Op0vcqs114MaEeQkp1IP-207" value="Notification&lt;div&gt;Status&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="1350" width="80" height="80" as="geometry" />
+          <mxGeometry x="-205" y="1430" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Op0vcqs114MaEeQkp1IP-208" value="StatusID" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-142" y="1485" width="126" height="40" as="geometry" />
+          <mxGeometry x="-147" y="1565" width="126" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Op0vcqs114MaEeQkp1IP-209" value="StatusDesc" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-300" y="1485" width="126" height="40" as="geometry" />
+          <mxGeometry x="-305" y="1565" width="126" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Op0vcqs114MaEeQkp1IP-211" value="ReadTimestamp" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="1120" width="126" height="40" as="geometry" />
+          <mxGeometry x="-145" y="1200" width="126" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Op0vcqs114MaEeQkp1IP-213" value="" style="shape=link;html=1;rounded=0;width=1.4285714285714288;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Op0vcqs114MaEeQkp1IP-193">
           <mxGeometry width="100" relative="1" as="geometry">
@@ -614,14 +614,14 @@
         <mxCell id="Op0vcqs114MaEeQkp1IP-224" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.184;entryY=0.083;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Op0vcqs114MaEeQkp1IP-193" target="Op0vcqs114MaEeQkp1IP-197">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Op0vcqs114MaEeQkp1IP-227" value="Deadline Reached&#xa;Deadline Almost Reached&#xa;Task Update&#xa;" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="140" y="1110" width="200" height="80" as="geometry" />
+        <mxCell id="Op0vcqs114MaEeQkp1IP-227" value="Deadline Reached&#xa;Deadline Almost Reached&#xa;Task Update&#xa;Request&#xa;Request Approval&#xa;&#xa;" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="125" y="1190" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Op0vcqs114MaEeQkp1IP-228" value="Deadline Reached&#xa;Deadline Almost Reached&#xa;Task Update&#xa;" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-76" y="1405" width="200" height="80" as="geometry" />
+        <mxCell id="Op0vcqs114MaEeQkp1IP-228" value="Sent&#xa;Recieved&#xa;Read&#xa;Action Taken" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-275" y="1460" width="87" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Op0vcqs114MaEeQkp1IP-233" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-443" y="1260" width="156" height="60" as="geometry" />
+          <mxGeometry x="-448" y="1340" width="156" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Op0vcqs114MaEeQkp1IP-229" value="Sender" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Op0vcqs114MaEeQkp1IP-233">
           <mxGeometry x="30" width="126" height="40" as="geometry" />
@@ -629,8 +629,14 @@
         <mxCell id="Op0vcqs114MaEeQkp1IP-231" value="MemberID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Op0vcqs114MaEeQkp1IP-233">
           <mxGeometry y="30" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Op0vcqs114MaEeQkp1IP-234" value="Reciever" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-106" y="1340" width="126" height="40" as="geometry" />
+        <mxCell id="Op0vcqs114MaEeQkp1IP-237" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-111" y="1420" width="150" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="Op0vcqs114MaEeQkp1IP-234" value="Reciever" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Op0vcqs114MaEeQkp1IP-237">
+          <mxGeometry width="126" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Op0vcqs114MaEeQkp1IP-236" value="MemberID/TeamID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Op0vcqs114MaEeQkp1IP-237">
+          <mxGeometry x="30" y="35" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
