@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.1">
   <diagram name="Page-1" id="WXvwqyUbcngWNF9PguIZ">
-    <mxGraphModel dx="1577" dy="1620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2377" dy="1920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="AFKLb5Q0Nero7sUQLxCu-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-40" width="690" height="310" as="geometry" />
+          <mxGeometry x="80" y="20" width="690" height="250" as="geometry" />
         </mxCell>
         <mxCell id="AFKLb5Q0Nero7sUQLxCu-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="80" y="270" width="690" height="310" as="geometry" />
@@ -178,8 +178,8 @@
         <mxCell id="AFKLb5Q0Nero7sUQLxCu-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AFKLb5Q0Nero7sUQLxCu-26" target="AFKLb5Q0Nero7sUQLxCu-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AFKLb5Q0Nero7sUQLxCu-52" value="Network Attached Storage (NAS)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="110" y="1160" width="200" height="30" as="geometry" />
+        <mxCell id="AFKLb5Q0Nero7sUQLxCu-52" value="NAS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="185" y="1160" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AFKLb5Q0Nero7sUQLxCu-53" value="Smart Home" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="163" y="961" width="90" height="30" as="geometry" />
@@ -224,8 +224,8 @@
         <mxCell id="AFKLb5Q0Nero7sUQLxCu-72" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;rotation=-30;" vertex="1" parent="1">
           <mxGeometry x="115" y="910" width="42" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="AFKLb5Q0Nero7sUQLxCu-73" value="Outdoor CCTV" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="86" y="945" width="100" height="30" as="geometry" />
+        <mxCell id="AFKLb5Q0Nero7sUQLxCu-73" value="Indoor CCTV" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="91" y="945" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AFKLb5Q0Nero7sUQLxCu-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.659;entryY=0.969;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AFKLb5Q0Nero7sUQLxCu-26" target="AFKLb5Q0Nero7sUQLxCu-73">
           <mxGeometry relative="1" as="geometry" />
@@ -245,7 +245,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AFKLb5Q0Nero7sUQLxCu-84" value="Home Network Architecture" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=32;" vertex="1" parent="1">
-          <mxGeometry x="220" y="-100" width="410" height="50" as="geometry" />
+          <mxGeometry x="220" y="-40" width="410" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AFKLb5Q0Nero7sUQLxCu-85" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;" vertex="1" parent="1">
           <mxGeometry x="188" y="339" width="32" height="31" as="geometry" />
