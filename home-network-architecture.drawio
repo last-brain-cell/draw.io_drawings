@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.1">
   <diagram name="Page-1" id="WXvwqyUbcngWNF9PguIZ">
-    <mxGraphModel dx="946" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1577" dy="1620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,9 +34,9 @@
             <mxPoint x="770" y="1270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AFKLb5Q0Nero7sUQLxCu-13" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1" source="AFKLb5Q0Nero7sUQLxCu-7">
+        <mxCell id="AFKLb5Q0Nero7sUQLxCu-13" value="" style="shape=link;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AFKLb5Q0Nero7sUQLxCu-15">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="440" y="1210" as="sourcePoint" />
+            <mxPoint x="440" y="1230" as="sourcePoint" />
             <mxPoint x="440" y="1270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -193,7 +193,7 @@
         <mxCell id="AFKLb5Q0Nero7sUQLxCu-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=blockThin;startFill=1;fillColor=#1ba1e2;strokeColor=#006EAF;dashed=1;" edge="1" parent="1" source="AFKLb5Q0Nero7sUQLxCu-29" target="AFKLb5Q0Nero7sUQLxCu-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AFKLb5Q0Nero7sUQLxCu-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=blockThin;startFill=1;dashed=1;" edge="1" parent="1" source="AFKLb5Q0Nero7sUQLxCu-32" target="AFKLb5Q0Nero7sUQLxCu-35">
+        <mxCell id="AFKLb5Q0Nero7sUQLxCu-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=blockThin;startFill=1;dashed=1;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1" source="AFKLb5Q0Nero7sUQLxCu-32" target="AFKLb5Q0Nero7sUQLxCu-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AFKLb5Q0Nero7sUQLxCu-64" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png" vertex="1" parent="1">
@@ -243,6 +243,43 @@
         </mxCell>
         <mxCell id="AFKLb5Q0Nero7sUQLxCu-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=cross;endFill=0;fillColor=#60a917;strokeColor=#2D7600;jumpStyle=arc;jumpSize=13;" edge="1" parent="1" source="AFKLb5Q0Nero7sUQLxCu-26" target="AFKLb5Q0Nero7sUQLxCu-79">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AFKLb5Q0Nero7sUQLxCu-84" value="Home Network Architecture" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="220" y="-100" width="410" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AFKLb5Q0Nero7sUQLxCu-85" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;" vertex="1" parent="1">
+          <mxGeometry x="188" y="339" width="32" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="AFKLb5Q0Nero7sUQLxCu-86" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.light_bulb;" vertex="1" parent="1">
+          <mxGeometry x="188" y="381.75" width="32" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="AFKLb5Q0Nero7sUQLxCu-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.546;exitY=-0.015;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#1ba1e2;strokeColor=#006EAF;dashed=1;dashPattern=8 8;strokeWidth=1;endArrow=none;startFill=0;" edge="1" parent="1" source="AFKLb5Q0Nero7sUQLxCu-85" target="AFKLb5Q0Nero7sUQLxCu-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="206" y="310" />
+              <mxPoint x="667" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AFKLb5Q0Nero7sUQLxCu-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#1ba1e2;strokeColor=#006EAF;dashed=1;dashPattern=8 8;endArrow=none;startFill=0;" edge="1" parent="1" source="AFKLb5Q0Nero7sUQLxCu-86" target="AFKLb5Q0Nero7sUQLxCu-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="397" />
+              <mxPoint x="290" y="310" />
+              <mxPoint x="667" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AFKLb5Q0Nero7sUQLxCu-90" value="connected to wifi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AFKLb5Q0Nero7sUQLxCu-88">
+          <mxGeometry x="-0.3062" y="3" relative="1" as="geometry">
+            <mxPoint x="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AFKLb5Q0Nero7sUQLxCu-89" value="smart appliances" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="153" y="410" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AFKLb5Q0Nero7sUQLxCu-91" value="16 active connections" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontColor=light-dark(#000000,#9933FF);" vertex="1" parent="1">
+          <mxGeometry x="430" y="1001.5" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
